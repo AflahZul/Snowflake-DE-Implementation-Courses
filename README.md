@@ -1,2 +1,4 @@
 # Snowflake-DE-Implementation
-Workaorund on Snowflake DE specialization
+Workaround on Snowflake DE specialization
+
+Codes that I run over the Snowflake DE Engineering Specialization and DataCamp bootcamp
